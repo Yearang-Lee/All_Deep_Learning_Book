@@ -4,7 +4,7 @@
 
 <img src="/image/4.png" style="zoom:60%;" />
 
-이미지 : <img src="/image/5.png" style="zoom:60%;" />
+이미지 : <img src="/image/5.png" style="zoom:60%;" /> 
 
 ```python
 model.add(Conv2D(32, kernel_size=(3, 3), input_shape=(28,28,1), activation = 'relu'))
